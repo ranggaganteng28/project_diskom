@@ -1,0 +1,25 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+dev.bekasikab.go.id	TRUE	/	FALSE	1999999999	ci_session	02q4eon6ki4r510rnqtpel9aeoks4rmh
+dev.bekasikab.go.id	TRUE	/	FALSE	1999999999	kondisi-demografi	103.144.175.227
+dev.bekasikab.go.id	TRUE	/	FALSE	1999999999	kondisi-geografis	103.144.175.227
+dev.bekasikab.go.id	TRUE	/	FALSE	1999999999	kondisi-keagamaan	103.144.175.227
+dev.bekasikab.go.id	TRUE	/	FALSE	1999999999	kondisi-kesehatan	103.144.175.227
+dev.bekasikab.go.id	TRUE	/	FALSE	1999999999	kondisi-pendidikan	103.144.175.227
+dev.bekasikab.go.id	TRUE	/	FALSE	1999999999	kondisi-pertanian	103.144.175.227
+dev.bekasikab.go.id	TRUE	/	FALSE	1999999999	kondisi-perikanan	103.144.175.227
+dev.bekasikab.go.id	TRUE	/	FALSE	1999999999	surat-keterangan-tidak-mampu	103.144.175.227
+dev.bekasikab.go.id	TRUE	/	FALSE	1999999999	surat-keterangan-domisili-haji	103.144.175.227
+dev.bekasikab.go.id	TRUE	/	FALSE	1999999999	surat-keterangan-proposal	103.144.175.227
+dev.bekasikab.go.id	TRUE	/	FALSE	1999999999	surat-keterangan-domisili-yayasan	103.144.175.227
+dev.bekasikab.go.id	TRUE	/	FALSE	1999999999	surat-keterangan-ahli-waris	103.144.175.227
+dev.bekasikab.go.id	TRUE	/	FALSE	1999999999	akta-jual-beli-tanah	103.144.175.227
+dev.bekasikab.go.id	TRUE	/	FALSE	1999999999	pencatatan-surat-keterangan-waris	103.144.175.227
+dev.bekasikab.go.id	TRUE	/	FALSE	1999999999	surat-keterangan-pengantar-skck	103.144.175.227
+dev.bekasikab.go.id	TRUE	/	FALSE	1999999999	surat-keterangan-izin-keramaian	103.144.175.227
+dev.bekasikab.go.id	TRUE	/	FALSE	1999999999	surat-izin-spanduk-dan-umbul-umbul	103.144.175.227
+dev.bekasikab.go.id	TRUE	/	FALSE	1999999999	surat-keteranga-domisili-lembaga	103.144.175.227
+dev.bekasikab.go.id	TRUE	/	FALSE	1999999999	surat-pengantar-rekomendasi-pembangunan	103.144.175.227
+dev.bekasikab.go.id	TRUE	/	FALSE	1999999999	izin-usaha-pendirian-pusat-kegiatan-belajar-masyarakat	103.144.175.227
+dev.bekasikab.go.id	TRUE	/	FALSE	1999999999	desaku-desaku	103.144.175.227
+
